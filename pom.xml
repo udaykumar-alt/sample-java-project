@@ -56,7 +56,7 @@
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id> <!-- This should match the id in settings.xml -->
-            <url>http://54.235.41.86:8081/repository/java-packages/</url> <!-- Replace with your Nexus URL -->
+            <url>http://54.235.41.86:8081/repository/maven-snapshots/</url> <!-- Replace with your Nexus URL -->
         </snapshotRepository>
 </distributionManagement>
 </project>
