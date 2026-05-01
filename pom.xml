@@ -52,11 +52,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- This should match the id in settings.xml -->
-            <url>http://52.90.14.140:8081/repository/maven-releases/</url> <!-- Replace with your Nexus URL -->
+            <url>http://54.235.41.86:8081/repository/java-packages/</url> <!-- Replace with your Nexus URL -->
         </repository>
-        <snapshotRepository>
-            <id>nexus-snapshots</id> <!-- This should match the id in settings.xml -->
-            <url>http://52.90.14.140:8081/repository/maven-snapshots/</url> <!-- Replace with your Nexus URL -->
-        </snapshotRepository>
-    </distributionManagement>
+  </distributionManagement>
 </project>
