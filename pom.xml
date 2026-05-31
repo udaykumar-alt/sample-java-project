@@ -52,7 +52,7 @@
  <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- This should match the id in settings.xml -->
-            <url>http://107.20.64.11:8081/repository/java-pacakges/</url> <!-- Replace with your Nexus URL -->
+            <url>http://107.20.64.11:8081/repository/java-packages/</url> <!-- Replace with your Nexus URL -->
         </repository>
         <snapshotRepository>
             <id>nexus-snapshots</id> <!-- This should match the id in settings.xml -->
