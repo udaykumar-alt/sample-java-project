@@ -52,7 +52,7 @@
  <distributionManagement>
         <repository>
             <id>nexus-releases</id> <!-- This should match the id in settings.xml -->
-            <url>http://54.83.155.45:8081/repository/java-packages/</url> <!-- Replace with your Nexus URL -->
+            <url>http://98.88.26.138:8081/repository/maven-releases/</url> <!-- Replace with your Nexus URL -->
         </repository>
 </distributionManagement>
 </project>
